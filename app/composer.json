@@ -1,0 +1,13 @@
+{
+    "name": "art-delivery/website",
+    "description": "Art Delivery Website with Google Authentication",
+    "require": {
+        "php": ">=7.4",
+        "google/apiclient": "2.15.0"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
